@@ -1,3 +1,7 @@
+## I followed all of the instructions!
+
+This was an interesting way to learn how to use github pages. thanks.
+
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
