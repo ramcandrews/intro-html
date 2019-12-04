@@ -1,3 +1,10 @@
+## I will start commiting code from one of my websites
+
+## Trippy Perlin
+The back ground of this website is a javascript visualization. It is drawn in a canvas element. All of the javascript is inline. Inline javascript is supposed to streamline pageload times. Two scripts are embedded in the HTML. In the <HEAD> tag, is an original perlin script, it is called on by the trippy perlin script, embedded at the end of the HTML file.
+
+credit: Trippy Perlin by David A. https://codepen.io/meodai
+
 ## I followed all of the instructions!
 
 This was an interesting way to learn how to use github pages. thanks.
