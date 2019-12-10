@@ -6,6 +6,8 @@ The background fill on this website is a javascript visualization. It is drawn i
 In the future I would like to have it match/mimic some deep learning algorithms.
 
 credit: Trippy Perlin by David A. https://codepen.io/meodai
+credit:  Improved Noise reference implementation
+Ken Perlin https://cs.nyu.edu/%7Eperlin/noise/
 
 ## I followed all of the instructions!
 
