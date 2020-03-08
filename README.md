@@ -1,4 +1,7 @@
 #  This site is published at 
+
+[![Join the chat at https://gitter.im/robotrodeodotnet/community](https://badges.gitter.im/robotrodeodotnet/community.svg)](https://gitter.im/robotrodeodotnet/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 https://ramcandrews.github.io/website/
 
 ## I will start commiting code from one of my websites
